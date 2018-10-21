@@ -1,5 +1,5 @@
 # Calculator
-Simple Expression Calculator
+Simple String Expression Calculator
 
 Summary:
 Simple calculator program created as a maven project. We are generating its code coverage report using Jacoco plugin.
