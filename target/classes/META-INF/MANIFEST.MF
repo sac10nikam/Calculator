@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: sachin_nikam
+Class-Path: libs/commons-lang3-3.8.1.jar libs/slf4j-api-1.7.25.jar lib
+ s/logback-classic-1.0.7.jar libs/logback-core-1.0.7.jar
+Build-Jdk: 1.8.0_45
+Created-By: Maven Integration for Eclipse
+Main-Class: com.capitaorbit.Application
+
